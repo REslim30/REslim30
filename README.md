@@ -7,6 +7,7 @@ I'm a software engineering student from Adelaide Australia.
 - 💬 Ask me about AWS, basic web-development and teaching (I was a Vietnamese teacher and a youth group organiser for a couple years so it's near and dear to my heart).
 - 📫 How to reach me: [LinkedIn](https://github.com/REslim30), [Facebook](https://www.facebook.com/huy.do.315/)
 - ⚡ Fun fact: My profile picture is a section of the [Mandlebrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set). I think it's a good example of the power of computing.
+- 🏡 Outside of work you'll find me reading, or exploring new (and often weird) things. My recent interests have been in meditation, breathing techniques, putting butter in coffee and getting over my fear of organ meats.
 
 ## Repositories
 I've mainly used GitHub as a place to store university work and also some personal projects. Let me give you a **run down my main repositories:**
