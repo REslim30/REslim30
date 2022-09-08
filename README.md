@@ -2,7 +2,7 @@
 ## About me
 I'm a software engineering student from Adelaide Australia.
 - 🔭 Currently working on a whistle blowing web app.
-- 🌱 I’m currently refining my front-end fundamentals in HTML, CSS and JavaScript.
+- 🌱 I’m currently learning Azure & Terraform. Been very impressed with Terraform as of late.
 - 🤔 I’m looking for help with how to effectively engage with clients and stakeholders.
 - 💬 Ask me about AWS, basic web-development and teaching (I was a Vietnamese teacher and a youth group organiser for a couple years so it's near and dear to my heart).
 - 📫 How to reach me: [LinkedIn](https://github.com/REslim30), [Facebook](https://www.facebook.com/huy.do.315/)
