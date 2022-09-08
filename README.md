@@ -1,7 +1,7 @@
 ### Hello 🙋‍♂️, Thanks for visiting!
 ## About me
 I'm a software engineering student from Adelaide Australia.
-- 🔭 I’m currently working on university work. My main effort is my honours project, where I'm helping consulting company find new avenues to track their consulting time.
+- 🔭 Currently working on a whistle blowing web app.
 - 🌱 I’m currently refining my front-end fundamentals in HTML, CSS and JavaScript.
 - 🤔 I’m looking for help with how to effectively engage with clients and stakeholders.
 - 💬 Ask me about AWS, basic web-development and teaching (I was a Vietnamese teacher and a youth group organiser for a couple years so it's near and dear to my heart).
