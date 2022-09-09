@@ -1,6 +1,6 @@
 ### Hello 🙋‍♂️, Thanks for visiting!
 ## About me
-I'm a software engineering student from Adelaide Australia.
+I'm a software engineer from Adelaide Australia.
 - 🔭 Currently working on a whistle blowing web app.
 - 🌱 I’m currently learning Azure & Terraform. Been very impressed with Terraform as of late.
 - 🤔 I’m looking for help with how to effectively engage with clients and stakeholders.
